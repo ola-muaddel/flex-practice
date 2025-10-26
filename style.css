@@ -4,7 +4,7 @@ body{
   background-color: rgb(30, 30, 31);
   color: aliceblue;
   gap: 10px;
-  justify-self: center;
+  justify-content: center;
 }
 div{
   width: 150px;
